@@ -205,13 +205,12 @@ body {
   background-attachment: fixed;
 }
 
-.container-fluid {
+.container-transparent {
   background-color: rgba(0, 0, 0, 0);
   padding-bottom: 0%;
   margin-bottom: 0%;
   height: 100vh;
-  
-}
+  }
 
 .dropShadoe {
   -webkit-box-shadow: 10px 10px 57px 10px rgba(0, 0, 0, 0.43);
